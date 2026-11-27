@@ -157,10 +157,17 @@ export const PROJECTS: Project[] = [
         },
       },
       {
-        src: "/assets/slide-08-brin-best.jpg",
+        src: "/assets/awards/brin-best-expo.webp",
         caption: {
           en: "Best Finalist showcase at BEST BRIN 2026 (The Trans Luxury Hotel, Bandung)",
           id: "Pameran Best Finalist BEST BRIN 2026 di Bandung",
+        },
+      },
+      {
+        src: "/assets/projects/brin-gms-screen.webp",
+        caption: {
+          en: "Local touchscreen HMI showing live H2 purity & mass flow telemetry",
+          id: "Layar sentuh HMI lokal menampilkan kemurnian H2 dan laju alir secara langsung",
         },
       },
       {
@@ -226,12 +233,26 @@ export const PROJECTS: Project[] = [
         "Mengelola distribusi daya beban berat menggunakan modul step-down XL4016E1 200W.",
       ],
     },
-    coverImage: "/assets/slide-29-punguters.jpg",
+    coverImage: "/assets/projects/punguters-robot.webp",
     coverCaption: {
-      en: "Punguters gripper CAD, robot prototype, and control block diagram",
-      id: "CAD gripper Punguters, prototipe robot, dan diagram blok kontrol",
+      en: "Punguters autonomous waste-sorting Mecanum rover with 3D-printed parallel gripper",
+      id: "Prototipe robot Punguters dengan sasis Mecanum dan gripper paralel cetak 3D",
     },
     gallery: [
+      {
+        src: "/assets/projects/punguters-robot.webp",
+        caption: {
+          en: "Physical Mecanum rover with 3D-printed parallel gripper & Jetson Nano",
+          id: "Prototipe fisik rover Mecanum dengan gripper paralel cetak 3D & Jetson Nano",
+        },
+      },
+      {
+        src: "/assets/projects/punguters-cad.webp",
+        caption: {
+          en: "3D CAD design of the custom parallel gripper & servo actuation linkage",
+          id: "Desain CAD 3D gripper paralel kustom beserta mekanisme aktuator servo",
+        },
+      },
       {
         src: "/assets/slide-29-punguters.jpg",
         caption: {
@@ -289,17 +310,24 @@ export const PROJECTS: Project[] = [
         "Menerapkan rutinitas pemindaian cepat 360° sebelum mengaktifkan sistem bidik presisi.",
       ],
     },
-    coverImage: "/assets/slide-35-firebot.jpg",
+    coverImage: "/assets/projects/firebot-robot.webp",
     coverCaption: {
-      en: "Autonomous fire-fighting chassis with front ultrasonic array & turret",
-      id: "Sasis robot pemadam api dengan susunan sensor ultrasonik dan turret",
+      en: "Autonomous fire-fighting rover with 3D-printed chassis, ultrasonic array & water turret",
+      id: "Rover pemadam api otonom dengan sasis cetak 3D, sensor ultrasonik & turret air",
     },
     gallery: [
       {
-        src: "/assets/slide-35-firebot.jpg",
+        src: "/assets/projects/firebot-robot.webp",
         caption: {
-          en: "Physical prototype and custom mounting bracket",
-          id: "Prototipe fisik dan braket pemasangan kustom",
+          en: "Physical prototype with custom 3D-printed body and front ultrasonic array",
+          id: "Prototipe fisik dengan bodi cetak 3D kustom dan susunan sensor ultrasonik",
+        },
+      },
+      {
+        src: "/assets/projects/firebot-wiring.webp",
+        caption: {
+          en: "Dual-ESP32 electronics integration and internal wiring",
+          id: "Integrasi elektronika dual-ESP32 dan pengkabelan internal",
         },
       },
       {
@@ -502,12 +530,26 @@ export const PROJECTS: Project[] = [
         "Menjalankan simulasi testbench Verilog menyeluruh sebelum implementasi pada FPGA Basys3.",
       ],
     },
-    coverImage: "/assets/slide-42-fpga.jpg",
+    coverImage: "/assets/projects/fpga-basys3.webp",
     coverCaption: {
-      en: "Basys3 FPGA hardware deployment, RTL schematic & Vivado testbench",
-      id: "Implementasi board FPGA Basys3, skematik RTL, dan testbench Vivado",
+      en: "4-digit multiplexed seven-segment BCD counter running on Basys3 FPGA",
+      id: "Penghitung BCD seven-segment 4-digit berjalan pada board FPGA Basys3",
     },
     gallery: [
+      {
+        src: "/assets/projects/fpga-basys3.webp",
+        caption: {
+          en: "Hardware counter running live on Digilent Basys3 FPGA",
+          id: "Penghitung berjalan langsung pada board FPGA Digilent Basys3",
+        },
+      },
+      {
+        src: "/assets/projects/fpga-testbench.webp",
+        caption: {
+          en: "Vivado Verilog testbench simulation waveform",
+          id: "Gelombang simulasi testbench Verilog di Vivado",
+        },
+      },
       {
         src: "/assets/slide-42-fpga.jpg",
         caption: {
@@ -556,17 +598,24 @@ export const PROJECTS: Project[] = [
         "Mendesain dan mencetak 3D bodi kereta komuter serta struktur stasiun di Autodesk Inventor.",
       ],
     },
-    coverImage: "/assets/slide-33-arcs.jpg",
+    coverImage: "/assets/projects/arcs-train.webp",
     coverCaption: {
-      en: "3D-printed commuter unit with discrete sensor & logic-gate control",
-      id: "Unit kereta cetak 3D dengan kontrol sensor dan gerbang logika diskrit",
+      en: "3D-printed commuter train unit & station gates with discrete logic control",
+      id: "Unit kereta komuter cetak 3D & gerbang stasiun dengan kontrol logika diskrit",
     },
     gallery: [
       {
-        src: "/assets/slide-33-arcs.jpg",
+        src: "/assets/projects/arcs-train.webp",
         caption: {
-          en: "ARCS scale commuter hardware and track automation setup",
-          id: "Perangkat keras skala ARCS dan instalasi otomasi jalur",
+          en: "3D-printed ARCS commuter train and automated station platform",
+          id: "Kereta komuter ARCS cetak 3D dan peron stasiun otomatis",
+        },
+      },
+      {
+        src: "/assets/projects/arcs-track.webp",
+        caption: {
+          en: "Scale track automation test setup",
+          id: "Uji coba jalur otomasi kereta skala miniatur",
         },
       },
       {
@@ -617,17 +666,24 @@ export const PROJECTS: Project[] = [
         "Mengintegrasikan sensor ultrasonik level tangki air dengan tampilan LCD dan antarmuka pemantauan.",
       ],
     },
-    coverImage: "/assets/slide-31-raise.jpg",
+    coverImage: "/assets/projects/raise-demo.webp",
     coverCaption: {
-      en: "RAISE gravity-fed prototype, sensor rig & UI dashboard",
-      id: "Prototipe irigasi gravitasi RAISE, unit sensor & antarmuka UI",
+      en: "RAISE gravity-fed robotic irrigation prototype & mobile monitoring UI",
+      id: "Prototipe irigasi robotik RAISE berbasis gravitasi & UI pemantauan seluler",
     },
     gallery: [
       {
-        src: "/assets/slide-31-raise.jpg",
+        src: "/assets/projects/raise-demo.webp",
         caption: {
           en: "First-semester individual IEEE R10 prototype presentation",
           id: "Presentasi prototipe individu IEEE R10 semester pertama",
+        },
+      },
+      {
+        src: "/assets/projects/raise-app.webp",
+        caption: {
+          en: "Mobile control & telemetry interface for soil moisture and water level",
+          id: "Antarmuka kontrol seluler untuk kelembaban tanah dan level air",
         },
       },
       {

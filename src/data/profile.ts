@@ -448,7 +448,7 @@ export const AWARDS: AwardItem[] = [
       en: "Awarded Best Finalist (09–10 June 2026) in Bandung for the Hydrolytix Smart Gas Data Collector.",
       id: "Meraih Best Finalist (09–10 Juni 2026) di Bandung untuk sistem Hydrolytix Smart Gas Data Collector.",
     },
-    image: "/assets/slide-08-brin-best.jpg",
+    image: "/assets/awards/brin-best-espo-cert.webp",
   },
   {
     id: "tmind-top25",
@@ -476,7 +476,7 @@ export const AWARDS: AwardItem[] = [
       en: "BINUS ASO PILMAPRES Faculty Winner (Jan 2025) and Top 10 BINUS University Finalist (Mar 2025).",
       id: "Juara PILMAPRES Fakultas BINUS ASO (Jan 2025) dan Top 10 Finalis BINUS University (Mar 2025).",
     },
-    image: "/assets/slide-11-pilmapres.jpg",
+    image: "/assets/awards/pilmapres-2025-backdrop.webp",
   },
   {
     id: "binus-mawapres-2025",
@@ -518,7 +518,7 @@ export const AWARDS: AwardItem[] = [
       en: "Recognized at BINUS Appreciation Day 2024 (17 Aug 2024) and BINUS ASO Appreciation Day 2023.",
       id: "Penghargaan berturut-turut di BINUS Appreciation Day 2024 dan BINUS ASO Appreciation Day 2023.",
     },
-    image: "/assets/slide-12-binus-2024.jpg",
+    image: "/assets/awards/binus-appreciation-2024.webp",
   },
   {
     id: "gbwc-world",
@@ -532,7 +532,7 @@ export const AWARDS: AwardItem[] = [
       en: "1st World Champion (Tokyo 2018), Top 5 World Finalist (2023), 3× 1st Indonesia Champion (2018, 2019, 2023).",
       id: "Juara Dunia 1 (Tokyo 2018), Top 5 Finalis Dunia (2023), dan 3× Juara 1 Nasional Indonesia.",
     },
-    image: "/assets/slide-13-gbwc.jpg",
+    image: "/assets/awards/gbwc-tokyo-2018.webp",
   },
   {
     id: "iro-its",
@@ -546,7 +546,7 @@ export const AWARDS: AwardItem[] = [
       en: "IRO 2019 2nd Winner (ITS), IASO 2020 Grand Champion, IMAGO 2022 Gold Medal, GBMO 2021/2022 1st Champion, IBMLB 2021, SSEG 2022 1st Winner.",
       id: "Juara 2 IRO 2019 (ITS), Grand Champion IASO 2020, Emas IMAGO 2022, Juara 1 GBMO 2021/2022, IBMLB 2021, Juara 1 SSEG 2022.",
     },
-    image: "/assets/slide-19-iro.jpg",
+    image: "/assets/awards/iro-2019-trophy.webp",
   },
 ];
 
@@ -590,6 +590,81 @@ export const ALL_HONORS: HonorRecord[] = [
 ];
 
 export const CERTIFICATIONS: CertificationItem[] = [
+  {
+    id: "cert-tsai-2nd",
+    year: "Jun 2026",
+    title: "2nd Winner — TOYOTA Software Academy Indonesia 2026",
+    issuer: "PT Toyota Motor Manufacturing Indonesia & STEI ITB",
+    category: "Industrial AI & Automotive",
+    detail: {
+      en: "Official 2nd Place certificate for DRAVIXA AI Co-Pilot at TSAI 2026.",
+      id: "Sertifikat resmi Juara 2 untuk proyek AI Co-Pilot DRAVIXA di TSAI 2026.",
+    },
+    image: "/assets/toyota-cert-2nd.jpg",
+    pdf: "/certificates/tsai-2nd-winner-2026.pdf",
+  },
+  {
+    id: "cert-tsai-finalist",
+    year: "Jun 2026",
+    title: "Best Finalist — Toyota Expertise Exhibition (TSAI 2026)",
+    issuer: "PT Toyota Motor Manufacturing Indonesia & STEI ITB",
+    category: "Industrial AI & Automotive",
+    detail: {
+      en: "Official Best Finalist Team recognition for live hardware & edge-AI demonstration.",
+      id: "Sertifikat resmi Best Finalist Team atas demonstrasi perangkat keras & edge-AI.",
+    },
+    image: "/assets/toyota-ceremony.jpg",
+    pdf: "/certificates/tsai-best-finalist-2026.pdf",
+  },
+  {
+    id: "cert-brin-hki",
+    year: "2026",
+    title: "Registered Industrial Design (HKI DJKI No. A00202603133)",
+    issuer: "DJKI Kemenkumham RI & BRIN",
+    category: "Intellectual Property & Hardware",
+    detail: {
+      en: "Official registration notice for the Smart Gas Data Collector enclosure designed during BRIN internship.",
+      id: "Surat pemberitahuan resmi pendaftaran Desain Industri untuk enklosur Smart Gas Data Collector BRIN.",
+    },
+    image: "/assets/brin-gms-cad.jpg",
+    pdf: "/certificates/brin-desain-industri-2026.pdf",
+  },
+  {
+    id: "cert-brin-best",
+    year: "Jun 2026",
+    title: "Best Finalist — BEST BRIN Exhibition (ESPO)",
+    issuer: "BRIN RI — Smart Mechatronics Research Center",
+    category: "Research & Mechatronics",
+    detail: {
+      en: "Official Best Finalist certificate at the BRIN Exhibition on Smart Technology (Bandung).",
+      id: "Sertifikat resmi Best Finalist pada pameran teknologi cerdas BEST BRIN di Bandung.",
+    },
+    image: "/assets/awards/brin-best-espo-cert.webp",
+  },
+  {
+    id: "cert-pilmapres-2025",
+    year: "Mar 2025",
+    title: "PILMAPRES 2025 — Most Outstanding Student Finalist",
+    issuer: "BINUS University",
+    category: "Academic Excellence",
+    detail: {
+      en: "Official certificate as BINUS University PILMAPRES 2025 Finalist representing BINUS ASO.",
+      id: "Sertifikat resmi Finalis PILMAPRES BINUS University 2025 mewakili BINUS ASO.",
+    },
+    image: "/assets/awards/pilmapres-2025-cert.webp",
+  },
+  {
+    id: "cert-iro-2019",
+    year: "Sep 2019",
+    title: "2nd Winner — Indonesian Robotic Olympiad (IRO 2019)",
+    issuer: "Mikrobot & ITS Surabaya",
+    category: "Robotics",
+    detail: {
+      en: "National 2nd Place in ITS Lego Programming (High School) at Gedung Pusat Robotika ITS.",
+      id: "Juara 2 Nasional kategori ITS Lego Programming (SMA) di Gedung Pusat Robotika ITS Surabaya.",
+    },
+    image: "/assets/awards/iro-2019-cert.webp",
+  },
   {
     id: "cert-toyota",
     year: "2026",
