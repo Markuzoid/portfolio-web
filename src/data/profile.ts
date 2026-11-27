@@ -32,7 +32,7 @@ export const EDUCATION = {
     id: "S1 Teknik Otomotif, Mekatronika, Robotika, Otomasi & AI (Tahun ke-3)",
   },
   period: "Aug 2023 – Sept 2027",
-  gpa: "3.68 / 4.00",
+  gpa: "3.73 / 4.00",
   highSchool: "Petra 1 Christian Senior High School Surabaya (Jul 2020 – Jul 2023)",
   languages: [
     { name: { en: "Indonesian", id: "Bahasa Indonesia" }, level: { en: "Native", id: "Penutur Asli" } },

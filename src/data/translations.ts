@@ -14,8 +14,8 @@ export const UI_COPY = {
   },
   hero: {
     kicker: {
-      en: "AI ENGINEER INTERN @ TOYOTA (TMMIN) · EX-BRIN SMART MECHATRONICS · BINUS ASO (GPA 3.68)",
-      id: "AI ENGINEER INTERN @ TOYOTA (TMMIN) · EX-BRIN MEKATRONIKA CERDAS · BINUS ASO (IPK 3.68)",
+      en: "AI ENGINEER INTERN @ TOYOTA (TMMIN) · EX-BRIN SMART MECHATRONICS · BINUS ASO (GPA 3.73)",
+      id: "AI ENGINEER INTERN @ TOYOTA (TMMIN) · EX-BRIN MEKATRONIKA CERDAS · BINUS ASO (IPK 3.73)",
     },
     title: {
       en: "Mark Alexander Ierwanto",
@@ -241,7 +241,7 @@ export const UI_COPY = {
     { en: "BRIN Smart Mechatronics Research Intern", id: "Magang Riset Mekatronika Cerdas BRIN" },
     { en: "DRAVIXA · TSAI 2026", id: "DRAVIXA · TSAI 2026" },
     { en: "36 Verified Honors", id: "36 Penghargaan Terverifikasi" },
-    { en: "GPA 3.68 · BINUS ASO", id: "IPK 3.68 · BINUS ASO" },
+    { en: "GPA 3.73 · BINUS ASO", id: "IPK 3.73 · BINUS ASO" },
   ],
   interludes: {
     industry: {
