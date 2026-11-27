@@ -1,0 +1,256 @@
+{
+  "redirects": [
+    {
+      "source": "/p/awards.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/p/awards_23.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/p/projects.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/p/work-experience.html",
+      "destination": "/experience",
+      "permanent": true
+    },
+    {
+      "source": "/p/organization-experience.html",
+      "destination": "/organization",
+      "permanent": true
+    },
+    {
+      "source": "/p/organization.html",
+      "destination": "/organization",
+      "permanent": true
+    },
+    {
+      "source": "/p/community-services.html",
+      "destination": "/community",
+      "permanent": true
+    },
+    {
+      "source": "/p/publications.html",
+      "destination": "/publications",
+      "permanent": true
+    },
+    {
+      "source": "/p/contact-info.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/p/images.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/2025-finalist-pilmapres-binus-binus-aso.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/2025-mahasiswa-berprestasi-binus.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/judge-gunpla-student-tournament.html",
+      "destination": "/experience",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/trophy-designer-innovedu.html",
+      "destination": "/projects/innovedu",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/photographer-videographer-verem-fx.html",
+      "destination": "/experience",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/3-arcs-automated-rapid-commuter-system.html",
+      "destination": "/projects/arcs",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/2-raise-robotic-advance-irigation-system.html",
+      "destination": "/projects/raise",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/8-autonomous-fire-fighting-robot.html",
+      "destination": "/projects/firebot",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/1-trophymedal-design-and-production.html",
+      "destination": "/projects/innovedu",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/4-vbcefd-voice-based-car-engine-fault.html",
+      "destination": "/projects/vbcefd",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/5-automated-hookes-law-experiment-device.html",
+      "destination": "/projects/hooke-lab",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/6-automated-torque-and-parallel-force.html",
+      "destination": "/projects/torque-lab",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/7-4digit-sevensegment-display-counter.html",
+      "destination": "/projects/fpga-counter",
+      "permanent": true
+    },
+    {
+      "source": "/2024/08/gbwc-2024.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/gbwc-2023.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/international-mathematical-advanced.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2021/08/international-applied-science-olympiad.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/indonesai-bangkit-muda-luar-biasa-ibmlb.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/global-business-mathematics-olympiad_21.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/international-applied-science-olympiad.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/international-judge-gb-master.html",
+      "destination": "/experience",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/global-business-mathematics-olympiad.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2019/08/blog-post.html",
+      "destination": "/community",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/gbwc-2019-internationa-competition.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/gbwc-2019-international-competition.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/2nd-indonesia-robotic-olympiad-winner.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/thailand-internasional-mathematics.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/hong-kong-international-mathematics.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/gbwc-2018-world-champion.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/australian-mathematic-competition-2018.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/gbwc-2018-international-competition.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/vanda-internasional-science-competition.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/thailand-international-mathematics.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/hong-kong-international-mathematics_21.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/national-business-mathematics.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/itrc-isstss-2018-robotics-competitions.html",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/gbwc-2017-international-competition.html",
+      "destination": "/awards",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}

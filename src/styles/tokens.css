@@ -1,0 +1,81 @@
+:root {
+  --bg-canvas: #0b0d10;
+  --bg-surface: #12151b;
+  --bg-recessed: #181c24;
+  --bg-hover: #1e232e;
+
+  --ink-primary: #f3f5f8;
+  --ink-secondary: #a8b2c2;
+  --ink-muted: #748094;
+
+  --border-hairline: #232934;
+  --border-strong: #4e5b70;
+
+  --accent-vermilion: #38bdf8;
+  --accent-vermilion-soft: rgba(56, 189, 248, 0.12);
+  --accent-border-soft: rgba(56, 189, 248, 0.35);
+  --accent-teal: #2dd4bf;
+  --accent-teal-soft: rgba(45, 212, 191, 0.12);
+  --teal-border-soft: rgba(45, 212, 191, 0.35);
+
+  --navbar-bg: rgba(11, 13, 16, 0.9);
+  --hero-glow: rgba(56, 189, 248, 0.08);
+  --btn-accent-ink: #081018;
+  --pill-dark-bg: rgba(20, 20, 19, 0.88);
+  --hud-readout-bg: rgba(11, 13, 16, 0.78);
+  --interlude-stats-bg: rgba(18, 21, 27, 0.85);
+  --hero-scrim-start: rgba(11, 13, 16, 0.92);
+  --hero-scrim-mid: rgba(11, 13, 16, 0.65);
+  --hero-scrim-end: rgba(11, 13, 16, 0.75);
+  --hero-scrim-top: rgba(11, 13, 16, 0.55);
+  --grid-line-color: rgba(56, 189, 248, 0.06);
+  --interlude-overlay-mid: rgba(11, 13, 16, 0.72);
+  --interlude-overlay-bot: rgba(11, 13, 16, 0.78);
+  --interlude-radial-edge: rgba(11, 13, 16, 0.82);
+
+  --font-display: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+  --container-max: 1280px;
+  --radius-xs: 2px;
+  --radius-sm: 4px;
+  --transition-fast: 160ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  --transition-med: 240ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+[data-theme="light"] {
+  --bg-canvas: #f8f9fa;
+  --bg-surface: #ffffff;
+  --bg-recessed: #eef2f6;
+  --bg-hover: #e2e8f0;
+
+  --ink-primary: #111827;
+  --ink-secondary: #4b5563;
+  --ink-muted: #6b7280;
+
+  --border-hairline: #d1d5db;
+  --border-strong: #9ca3af;
+
+  --accent-vermilion: #007bff;
+  --accent-vermilion-soft: rgba(0, 123, 255, 0.1);
+  --accent-border-soft: rgba(0, 123, 255, 0.3);
+  --accent-teal: #0d9488;
+  --accent-teal-soft: rgba(13, 148, 136, 0.1);
+  --teal-border-soft: rgba(13, 148, 136, 0.3);
+
+  --navbar-bg: rgba(248, 249, 250, 0.92);
+  --hero-glow: rgba(0, 123, 255, 0.08);
+  --btn-accent-ink: #ffffff;
+  --pill-dark-bg: rgba(17, 24, 39, 0.88);
+  --hud-readout-bg: rgba(255, 255, 255, 0.9);
+  --interlude-stats-bg: rgba(255, 255, 255, 0.92);
+  --hero-scrim-start: rgba(248, 249, 250, 0.94);
+  --hero-scrim-mid: rgba(248, 249, 250, 0.78);
+  --hero-scrim-end: rgba(248, 249, 250, 0.88);
+  --hero-scrim-top: rgba(248, 249, 250, 0.72);
+  --grid-line-color: rgba(0, 123, 255, 0.08);
+  --interlude-overlay-mid: rgba(248, 249, 250, 0.78);
+  --interlude-overlay-bot: rgba(248, 249, 250, 0.84);
+  --interlude-radial-edge: rgba(248, 249, 250, 0.88);
+}
