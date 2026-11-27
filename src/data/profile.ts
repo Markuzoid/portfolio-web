@@ -490,7 +490,21 @@ export const AWARDS: AwardItem[] = [
       en: "Honored on 07 June 2025 as Most Outstanding Student (National & International Level).",
       id: "Penghargaan Mahasiswa Berprestasi Tingkat Nasional & Internasional (07 Juni 2025).",
     },
-    image: "/assets/slide-10-binus-2025.jpg",
+    image: "/assets/awards/binus-mawapres-2025-sign.webp",
+  },
+  {
+    id: "binus-mawapres-2025-stage",
+    year: "Jun 2025",
+    title: {
+      en: "BINUS Appreciation Day 2025 — Main Stage Recognition",
+      id: "BINUS Appreciation Day 2025 — Penyerahan Penghargaan di Panggung",
+    },
+    issuer: "BINUS University",
+    detail: {
+      en: "On-stage award presentation for international achievement (GBWC & BINUS ASO School of Engineering).",
+      id: "Dokumentasi panggung utama BINUS Appreciation Day 2025 untuk prestasi tingkat internasional.",
+    },
+    image: "/assets/awards/binus-mawapres-2025-stage.webp",
   },
   {
     id: "binus-mawapres-2024",
@@ -588,6 +602,19 @@ export const CERTIFICATIONS: CertificationItem[] = [
       id: "Sertifikat Top 25 Peserta Terbaik mencakup arsitektur kendaraan, CAN bus, dan AI industri.",
     },
     image: "/assets/toyota-bootcamp.jpg",
+    pdf: "/certificates/toyota-software-bootcamp-top25.pdf",
+  },
+  {
+    id: "cert-icsmech-2026",
+    year: "Jun 2026",
+    title: "ICSMech 2026 — International Conference on Smart Mechatronics (Student Participant)",
+    issuer: "BRIN & Telkom University",
+    category: "Research & Mechatronics",
+    detail: {
+      en: "Official certificate of participation at the 2026 International Conference on Smart Mechatronics (Bandung, Indonesia).",
+      id: "Sertifikat resmi partisipasi pada International Conference on Smart Mechatronics 2026 (BRIN & Telkom University).",
+    },
+    image: "/assets/awards/cert-icsmech-2026.webp",
   },
   {
     id: "cert-fabric",
