@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://portfolio.markalexanderierwanto.com/sitemap.xml
+Sitemap: https://portfolio-web-5yv.pages.dev/sitemap.xml

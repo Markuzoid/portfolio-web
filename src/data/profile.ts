@@ -11,7 +11,7 @@ import type {
 
 export const CONTACT_INFO = {
   mainSiteUrl: "https://www.markalexanderierwanto.com/",
-  portfolioHubUrl: "https://portfolio.markalexanderierwanto.com/",
+  portfolioHubUrl: "https://portfolio-web-5yv.pages.dev/",
   email: "mark.alexander.portfolio@gmail.com",
   linkedinUrl: "https://id.linkedin.com/in/mark-alexander-ie",
   linkedinLabel: "linkedin.com/in/mark-alexander-ie",
