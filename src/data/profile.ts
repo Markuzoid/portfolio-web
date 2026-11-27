@@ -168,6 +168,22 @@ export const EXPERIENCES: ExperienceItem[] = [
         src: "/assets/linkedin-tmmin-selfie.jpg",
         caption: "Artificial Intelligence Engineer Intern at TMMIN Learning Center",
       },
+      {
+        src: "/assets/tmmin/tmmin-simulator-review.webp",
+        caption: "Simulator testing & engineering review with TMMIN mentors",
+      },
+      {
+        src: "/assets/tmmin/tmmin-team-group.webp",
+        caption: "Capability Center — Future Skill Development team at TMMIN",
+      },
+      {
+        src: "/assets/tmmin/tmmin-workstation.webp",
+        caption: "Daily AI engineering workstation at TMMIN Karawang",
+      },
+      {
+        src: "/assets/tmmin/tmmin-good-thinking-badge.webp",
+        caption: "TMMIN Toyota — Good Thinking, Good Product",
+      },
     ],
   },
   {
